@@ -1,0 +1,60 @@
+/*Selectores{estilos}
+tipo de selectores
+1- Etiquetas h1, p
+2 - clase .+Nombre parte de un grupo de etiquetas
+3 - Id #+Nombre id que tiene la etiqueta */
+body {
+    background-color: pink ;
+}
+
+.Fondoverde{
+    background-color: green;
+}
+
+h2{
+    background-color:aqua ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#tituloprincipal{
+    background-color: rgb(850, 600, 874) ;
+    width: 400px;
+    height: 50px;
+    display: inline-block;
+}
+
+button{
+    display: block;
+    background-color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.Botongris{
+    background-color: gray;
+    
+}
+
+#Perro{
+    width: 300px;
+
+}
+
+.texto2{
+    width: 25%;
+    height: 40 vh;
+}
+
+#textounico{
+    background-image: url(./imagenes/car-8778216_1280.jpg);
+}
+
+ul{
+    background-color: blueviolet;
+width: 50%;
+}
+
+li{
+    background-color: chocolate;
+    
+}
